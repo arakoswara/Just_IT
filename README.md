@@ -3,3 +3,4 @@ Tentang cara penggunaan :
 - GSON
 - Volley
 - ListView
+- Adapter
