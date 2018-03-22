@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358368139563",
+    "project_id": "dwidayatest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358368139563:android:fe2b4798cf1741b0",
+        "android_client_info": {
+          "package_name": "travel.ezy.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358368139563-oleuqbm9stkltsq56vv9hbi2stt3k241.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "358368139563-lcoq5njrj3tunq4n49g4lgsu20uaqrgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "travel.ezy.googlelogin",
+            "certificate_hash": "5d65c10c46e9ac71dd6449bfc03eb076d75382e9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptttmZ1u5xl91d2IbCbgAD9NO2Cb1axs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
